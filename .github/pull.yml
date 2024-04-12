@@ -1,0 +1,8 @@
+version: "1"
+rules:
+  - base: master
+    upstream: blackmatrix7:master
+    mergeMethod: merge
+  - base: release
+    upstream: blackmatrix7:release
+    mergeMethod: merge
