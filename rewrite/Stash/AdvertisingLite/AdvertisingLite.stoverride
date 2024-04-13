@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-04-11 02:16:17
+desc: 最后更新时间 2024-04-14 02:14:35
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1073
-# mitm: 797
+# reject: 1075
+# mitm: 799
 # force-http-engine-hosts: 6
-# total: 1876
+# total: 1880
 
 
 
@@ -722,6 +722,7 @@ http:
     - ^https?:\/\/maicai\.api\.ddxq\.mobi\/homeApi\/getHomeAdPop - reject
     - ^https?:\/\/mall\.meituan\.com\/api\/c\/homepage\/bubble\/operate\/info - reject
     - ^https?:\/\/mall\.meituan\.com\/api\/c\/homepage\/splash - reject
+    - ^https?:\/\/mama\.dxy\.com\/api\/cms\/client\/popup-window\/list - reject
     - ^https?:\/\/mapi-app\.bestpay\.com\.cn\/gapi\/appclient\/noEnc\/getAppPopup - reject
     - ^https?:\/\/mapi\.appvipshop\.com\/vips-mobile\/rest\/activity\/advertisement\/get - reject
     - ^https?:\/\/mapi\.appvipshop\.com\/vips-mobile\/rest\/activity\/coupon\/float_entrance\/get\?api_key - reject
@@ -1033,6 +1034,7 @@ http:
     - ^https?:\/\/www\.icourse163\.org\/mob\/j\/v1\/mobRecommendRPCBean\.getMaxWeightAdvertisement\.rpc - reject
     - ^https?:\/\/www\.inoreader\.com\/adv\/ - reject
     - ^https?:\/\/www\.iyingdi\.cn\/ad - reject
+    - ^https?:\/\/www\.kujiale\.com\/app\/queryOpenPage - reject
     - ^https?:\/\/www\.meituan\.com\/api\/v\d\/appstatus\? - reject
     - ^https?:\/\/www\.nfmovies\.com\/pic\/tu\/ - reject
     - ^https?:\/\/www\.nfmovies\.com\/templets\/default\/images\/logos - reject
@@ -1597,6 +1599,7 @@ http:
     - "magev6.if.qidian.com"
     - "maicai.api.ddxq.mobi"
     - "mall.meituan.com"
+    - "mama.dxy.com"
     - "mapi-app.bestpay.com.cn"
     - "mapi.appvipshop.com"
     - "mapi.dangdang.com"
@@ -1860,6 +1863,7 @@ http:
     - "www.icourse163.org"
     - "www.inoreader.com"
     - "www.iyingdi.cn"
+    - "www.kujiale.com"
     - "www.meituan.com"
     - "www.nfmovies.com"
     - "www.onstar.com.cn"
