@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-05-26 02:08:41
+# UPDATED: 2024-05-28 02:09:26
 # DOMAIN: 12847
 # DOMAIN-KEYWORD: 283
-# DOMAIN-SUFFIX: 152837
+# DOMAIN-SUFFIX: 152902
 # IP-CIDR: 469
 # IP-CIDR6: 1
-# TOTAL: 166437
+# TOTAL: 166502
 213.8.137.51
 10.10.34.34
 10.10.34.35
@@ -13075,6 +13075,7 @@ ios-pclog.i4.cn
 +.1116c5.xyz
 +.111supjavcom.xyz
 +.113-bca.online
++.1139724980.rsc.cdn77.org
 +.1147112108.rsc.cdn77.org
 +.1156219164.rsc.cdn77.org
 +.1175980934.rsc.cdn77.org
@@ -13135,6 +13136,7 @@ ios-pclog.i4.cn
 +.13b696a4c1.com
 +.13niao20230422.live
 +.13p76nnir.de
++.1417571542.rsc.cdn77.org
 +.1437953666.rsc.cdn77.org
 +.1441085683.rsc.cdn77.org
 +.1473763790.rsc.cdn77.org
@@ -13642,6 +13644,7 @@ ios-pclog.i4.cn
 +.35volitantplimsoles5.com
 +.360.anatic.net
 +.360114.xyz
++.3601880.xyz
 +.360640.com
 +.360ads.com
 +.360adshost.com
@@ -13748,6 +13751,7 @@ ios-pclog.i4.cn
 +.40nuggets.com
 +.415677.com
 +.41f6f373a2.com
++.420909.cn
 +.4251.tech
 +.42a5d530ec972d8994.com
 +.42d61f012e27b36d53.com
@@ -13932,6 +13936,7 @@ ios-pclog.i4.cn
 +.5ca59a669a.com
 +.5caa478343.com
 +.5cbbdb4434.com
++.5ceea3.xyz
 +.5cf8606941.com
 +.5d69ce1b7a.com
 +.5d8dd0486a.com
@@ -14239,6 +14244,7 @@ ios-pclog.i4.cn
 +.82zcb.icu
 +.8353e36c2a.com
 +.83u7q.top
++.845d6bbf60.com
 +.847h7f51.de
 +.8499583.com
 +.84aa71fc7c.com
@@ -14259,6 +14265,7 @@ ios-pclog.i4.cn
 +.87bcb027cf.com
 +.87c5ce40f8.com
 +.87uq.com
++.884de19f2b.com
 +.8861198.com
 +.8861202.com
 +.887vn.com
@@ -14392,6 +14399,7 @@ ios-pclog.i4.cn
 +.975.vn
 +.977878.xyz
 +.97927e3b4d.com
++.97b448.xyz
 +.97d73lsi.com
 +.98158.com
 +.9831tb.com
@@ -15285,6 +15293,7 @@ ios-pclog.i4.cn
 +.ad-stir.com
 +.ad-sun.de
 +.ad-tag.biz
++.ad-tech.ru
 +.ad-tool.com
 +.ad-track.jp
 +.ad-tracker-api.luizalabs.com
@@ -17509,6 +17518,7 @@ ios-pclog.i4.cn
 +.agkn.com
 +.agl001.bid
 +.agl002.online
++.agl003.com
 +.agle21xe2anfddirite.com
 +.aglocobanners.com
 +.agloogly.com
@@ -18283,6 +18293,7 @@ ios-pclog.i4.cn
 +.amobee.com
 +.amoddishor.com
 +.amofqosgs.com
++.amon1.net
 +.amonar.com
 +.amonor.com
 +.amontp.com
@@ -19775,6 +19786,7 @@ ios-pclog.i4.cn
 +.augurersoilure.space
 +.august15download.com
 +.augustjadespun.com
++.auisaoa.top
 +.aujooxoo.com
 +.aukalerim.com
 +.aukana.jp
@@ -21775,6 +21787,7 @@ ios-pclog.i4.cn
 +.binaryrecentrecentcut.com
 +.bincatracs.com
 +.bineukdwithmef.info
++.bing001.shop
 +.bingoocy.com
 +.binh-chonthang7.weebly.com
 +.binhchon-gionghatvietnhi-2022.weebly.com
@@ -21915,6 +21928,7 @@ ios-pclog.i4.cn
 +.bjjabc.com
 +.bjjkuoxidr.xyz
 +.bjjnovsnejwm.com
++.bjmilicshimxym.com
 +.bjornecoydog.com
 +.bjpvbufsxjhvq.com
 +.bjpwv.com
@@ -23459,6 +23473,7 @@ ios-pclog.i4.cn
 +.bzgmcqqfxd.com
 +.bzlwe.com
 +.bznizrhd.xyz
++.bzqqftz.icu
 +.bzrpvk.com
 +.bzsiyxkvehty.com
 +.bzthxv.xyz
@@ -24281,6 +24296,7 @@ ios-pclog.i4.cn
 +.cdnware.com
 +.cdnware.io
 +.cdnweb3.pages.dev
++.cdojukbtib.com
 +.cdolhlwq.xyz
 +.cdosagebreakfast.com
 +.cdp.asia
@@ -26286,6 +26302,7 @@ ios-pclog.i4.cn
 +.constructionrejection.com
 +.constructivesmoking.com
 +.constructpoll.com
++.constructpreachystopper.com
 +.construment.com
 +.consukultinge.info
 +.consukultingeca.com
@@ -26569,6 +26586,7 @@ ios-pclog.i4.cn
 +.coststunningconjure.com
 +.costumebodiesfires.com
 +.cosysuppressed.com
++.cotatholt.net
 +.cotchaug.com
 +.coticoffee.com
 +.cotingavintry.website
@@ -29108,6 +29126,7 @@ ios-pclog.i4.cn
 +.dd0122893e.com
 +.dd1.diymianmo.com
 +.dd112233dd.com
++.dd2270.xyz
 +.dd5889a9b4e234dbb210787.com
 +.dd667788dd.com
 +.dd6zx4ibq538k.cloudfront.net
@@ -29257,6 +29276,7 @@ ios-pclog.i4.cn
 +.decrepitgulpedformation.com
 +.decswci.com
 +.dedfearingles.info
++.dedfearinglestp.info
 +.dedicatedmedia.com
 +.dedicatednetworks.com
 +.dedicatedsummarythrone.com
@@ -30909,6 +30929,7 @@ ios-pclog.i4.cn
 +.dpdnav.com
 +.dpe5t.space
 +.dpedrt.xyz
++.dpeqm8xv96fuc.cloudfront.net
 +.dpfchqsiksjuyjc.xyz
 +.dphpycbr.com
 +.dphunjimnkyadh.com
@@ -32228,6 +32249,7 @@ ios-pclog.i4.cn
 +.eheiwhacdsnc.com
 +.eheuye.xyz
 +.ehgavvcqj.xyz
++.ehhjfgs.xyz
 +.ehliswxnrx.com
 +.ehmqlr.com
 +.ehoqtjfazgxzee.com
@@ -32282,6 +32304,7 @@ ios-pclog.i4.cn
 +.ejevika.com
 +.ejidalpiragua.top
 +.ejipaifaurga.com
++.ejnrvilfilnz.com
 +.ejolul.xyz
 +.ejpzqnqwcszfsz.com
 +.ejrigxesvg.com
@@ -32592,6 +32615,7 @@ ios-pclog.i4.cn
 +.endorsementgrasshopper.com
 +.endorsementmart.com
 +.endorsesmelly.com
++.endowmentoverhangutmost.com
 +.endream.buzz
 +.endurancetransmitted.com
 +.endurecorpulent.com
@@ -33088,6 +33112,7 @@ ios-pclog.i4.cn
 +.esumeformo.info
 +.eswsentatives.info
 +.esxjpnkgyaeiu.xyz
++.esyliew.top
 +.et-cod.com
 +.et-code.ru
 +.et-gv.fr
@@ -34944,6 +34969,7 @@ ios-pclog.i4.cn
 +.flavourdinerinadmissible.com
 +.flavourforgave.com
 +.flawenormouslyattractive.com
++.flawerosion.com
 +.flaweyesight.com
 +.flaxdoorbell.com
 +.flaxierfilmset.com
@@ -35495,6 +35521,7 @@ ios-pclog.i4.cn
 +.fpb1.tabuzhe.com
 +.fpbone.ihowguide.com
 +.fpdbccngiujp.com
++.fpelfyeesuoivy.com
 +.fpgedsewst.com
 +.fphbwyonnk.com
 +.fphjeyqs.com
@@ -36327,6 +36354,7 @@ ios-pclog.i4.cn
 +.gapp1.com
 +.gappiertransfd.top
 +.gapscult.com
++.gaptooju.net
 +.gaqscipubhi.com
 +.gaquxe8.site
 +.garaena.vn
@@ -38095,6 +38123,7 @@ ios-pclog.i4.cn
 +.grumpyslayerbarton.com
 +.grumrionzgu.com
 +.grunoaph.net
++.gruntremoved.com
 +.grupkxfhi.com
 +.gruponn.com
 +.grurawho.com
@@ -38346,6 +38375,7 @@ ios-pclog.i4.cn
 +.gvwdwrtzrs.com
 +.gvzsrqp.com
 +.gw1jvhs.com
++.gw2cddpt2hao.asia
 +.gwallet.com
 +.gwbgqrxlelrjsi.com
 +.gwcpdvojom.com
@@ -40515,6 +40545,7 @@ ios-pclog.i4.cn
 +.ib-ebanking.com
 +.ib-ibi.com
 +.ib.snssdk.com
++.ibaglhc.icu
 +.ibankingdigital.com
 +.ibankingshopee.vn
 +.ibanner.de
@@ -40802,6 +40833,7 @@ ios-pclog.i4.cn
 +.ihqnckvpfx.com
 +.ihtckcitkr.com
 +.ihttscqovzzb.com
++.ihuumdkdjskud.com
 +.ihwdun.xyz
 +.ihwlek.com
 +.ihzuephjxb.com
@@ -43633,6 +43665,7 @@ ios-pclog.i4.cn
 +.jxuhurp.icu
 +.jxvilsjyrh.com
 +.jxvyrv.xyz
++.jxwqu.cn
 +.jxybgyu.com
 +.jy.zhongxues.com
 +.jy147a.com
@@ -48523,6 +48556,7 @@ ios-pclog.i4.cn
 +.mentrandi.com
 +.mentswithde.com
 +.mentxviewsinte.info
++.mentxviewsinterf.info
 +.menu.metu.vn
 +.menui.xyz
 +.menyiesekos.digital
@@ -49908,6 +49942,7 @@ ios-pclog.i4.cn
 +.mpb1.iteye.com
 +.mpbohwtqqnw.com
 +.mpbpuctr.com
++.mpcrvcbwdouo.com
 +.mpecehfd.xyz
 +.mpfofpynoououe.xyz
 +.mpfqphqf.com
@@ -51841,6 +51876,7 @@ ios-pclog.i4.cn
 +.nlrsbd.xyz
 +.nltsvf.xyz
 +.nlvgxr.xyz
++.nlvwdlnhfnnw.com
 +.nlwjdxsa.com
 +.nlyxqpeo.com
 +.nlzxclfg.com
@@ -53446,6 +53482,7 @@ ios-pclog.i4.cn
 +.onwardrespirationcommandment.com
 +.onwasrv.com
 +.onwekdebd.xyz
++.onxeacj.cn
 +.onxtxdm.xyz
 +.onychinferous.top
 +.onzazqarhmpi.com
@@ -53454,6 +53491,7 @@ ios-pclog.i4.cn
 +.oo00.biz
 +.oobitsou.net
 +.oobuwjnlljbah.com
++.oocsutvtggeuu.com
 +.oocxefrgn.com
 +.oodrampi.com
 +.oodsauns.net
@@ -53675,6 +53713,7 @@ ios-pclog.i4.cn
 +.opuluswanton.top
 +.opvanillishan.com
 +.opwofty.cn
++.opwoga.xyz
 +.opxogkbiqkti.com
 +.opzksyy.cn
 +.oq6ry.com
@@ -57651,6 +57690,7 @@ ios-pclog.i4.cn
 +.ptoagnin.xyz
 +.ptoahaistais.com
 +.ptoajait.net
++.ptoakooph.net
 +.ptoaltie.com
 +.ptoangir.com
 +.ptoapouk.com
@@ -58065,6 +58105,7 @@ ios-pclog.i4.cn
 +.pvqzggfkuxum.com
 +.pvrtx.net
 +.pvsxzlb.com
++.pvtqllwgu.com
 +.pvtypsgueyqey.com
 +.pvwtkxcpsrcsd.com
 +.pvxvazbehd.com
@@ -59055,6 +59096,7 @@ ios-pclog.i4.cn
 +.radxcomm.com
 +.raekq.online
 +.raeoaxqxhvtxe.xyz
++.raepkiknkyxuuc.com
 +.raffleinsanity.com
 +.rag3ca7t5amubr8eedffin.com
 +.ragapa.com
@@ -59200,6 +59242,7 @@ ios-pclog.i4.cn
 +.rarmkce.cn
 +.rasahick.space
 +.rascalbygone.com
++.rashbarnabas.com
 +.rashlyblowfly.com
 +.rashtiprimomo.com
 +.raspberryamusingbroker.com
@@ -59218,6 +59261,7 @@ ios-pclog.i4.cn
 +.rationalan.pro
 +.rationalizedalton.com
 +.ratioregarding.com
++.ratiosincl.com
 +.ratke.biz
 +.rattoninsects.top
 +.ratury.com
@@ -60600,6 +60644,7 @@ ios-pclog.i4.cn
 +.rkgbqn.icu
 +.rkgnmwre.site
 +.rkgwzfwjgk.com
++.rkifguxul.com
 +.rkjnazpgfihz.com
 +.rknwwtg.com
 +.rkomf.com
@@ -61925,6 +61970,7 @@ ios-pclog.i4.cn
 +.scdienmayxanh.com
 +.scenbe.com
 +.scenerynatives.com
++.scenescrockery.com
 +.scenespathreconciliation.com
 +.scenistgracy.life
 +.sceno.ru
@@ -64144,6 +64190,7 @@ ios-pclog.i4.cn
 +.smatr.icu
 +.smatr.net
 +.smbx8.net
++.smctmxdeoz.com
 +.smearedbin.com
 +.smearincur.com
 +.smeartoassessment.com
@@ -65227,6 +65274,7 @@ ios-pclog.i4.cn
 +.ssuijiuyv.com
 +.ssurvey2you.com
 +.ssvnshop.com
++.ssylieb.top
 +.st-5cva8vttppvjafpc7jvj.kodik.biz
 +.st-a.vtvdigital.vn
 +.st-fly.b-cdn.net
@@ -68299,6 +68347,7 @@ ios-pclog.i4.cn
 +.thusdrink.com
 +.thusenteringhypocrisy.com
 +.thusqhlt.com
++.thuthoock.net
 +.thutsish.xyz
 +.thutucnhangiai2022.com
 +.thutucnhantien-tunuocngoai.weebly.com
@@ -71577,6 +71626,7 @@ ios-pclog.i4.cn
 +.uqrcuxp.cn
 +.uqueae.xyz
 +.uqwbcm.xyz
++.uqydcs.xyz
 +.urambled.com
 +.uranianredrove.com
 +.uranicargine.top
@@ -74860,6 +74910,7 @@ ios-pclog.i4.cn
 +.wg.zaloapp.com
 +.wgbwlgzthobp.com
 +.wgchrrammzv.com
++.wggqzhmnz.com
 +.wghzbgmjpyig.com
 +.wgidskie.top
 +.wgkggub.com
@@ -75396,6 +75447,7 @@ ios-pclog.i4.cn
 +.wlog.ifdo.co.kr
 +.wlog.kuaishou.com
 +.wlog.tmon.co.kr
++.wlrkcefll.com
 +.wlvkzwqjlyzvr.top
 +.wlwbjjphtza.com
 +.wlyfiii.com
@@ -75850,6 +75902,7 @@ ios-pclog.i4.cn
 +.wtstats.ro
 +.wttuuyd.cn
 +.wtuuilhbfvsiqbo.com
++.wtynalolraz.com
 +.wtyusie.top
 +.wubizigeng.com
 +.wuchaurteed.com
@@ -76580,6 +76633,7 @@ ios-pclog.i4.cn
 +.xqmvzmt.com
 +.xqwcryh.com
 +.xqzwtvjkjj.com
++.xragnfrjhiqep.xyz
 +.xray.mail.ru
 +.xrb0owc.icu
 +.xrcembm.cn
@@ -77049,6 +77103,7 @@ ios-pclog.i4.cn
 +.yhkeqboz.com
 +.yhlpshi.xyz
 +.yhlzadr.xyz
++.yhmhbnzz.com
 +.yhnvgdkw.xyz
 +.yholvajpu.com
 +.yhomrdh.com
@@ -77534,6 +77589,7 @@ ios-pclog.i4.cn
 +.yywh.vip
 +.yyyaih.icu
 +.yzcpgadw.icu
++.yzerabwdkpaee.com
 +.yzfrapd.xyz
 +.yzgid.cn
 +.yziwoidi.icu
@@ -78012,6 +78068,7 @@ ios-pclog.i4.cn
 +.zlncvn.xyz
 +.zlog.mp3.zing.vn
 +.zlog.zingmp3.vn
++.zltndp.xyz
 +.zlvlciv.xyz
 +.zlx.com.br
 +.zlyhslx.icu
@@ -78136,6 +78193,7 @@ ios-pclog.i4.cn
 +.zqksqsjupnb.com
 +.zqmmtbwqymhrru.com
 +.zqmwf.xyz
++.zqpztal.com
 +.zqtk.net
 +.zquent.com
 +.zqwe.ru
@@ -78261,6 +78319,7 @@ ios-pclog.i4.cn
 +.zvrvwpcqweiwhm.com
 +.zvtnj.icu
 +.zvvajeokyboae.top
++.zvvlbf.xyz
 +.zvwhrc.com
 +.zvzmzrarkvzzw.top
 +.zwaar.net
@@ -79019,6 +79078,7 @@ ios-pclog.i4.cn
 +.5jhome.com
 +.5jhsbdjfsdf5.monster
 +.5mcwl.pw
++.5mgrgsc.cn
 +.5min.win
 +.5py1.xyz
 +.5rocks.io
@@ -79085,6 +79145,7 @@ ios-pclog.i4.cn
 +.6db7837ac4.com
 +.6dd4a8313e.com
 +.6e3ee87ff2.com
++.6fi3bv9.cn
 +.6ha03.icu
 +.6jhsbjdfsdf66.monster
 +.6kup12tgxx.com
@@ -79092,6 +79153,7 @@ ios-pclog.i4.cn
 +.6ow9rhxtolls.gq
 +.6range.fr
 +.6uc.cc
++.6uzxtlv.cn
 +.6v4.cn
 +.6w1.sharedlinkconnect.com
 +.6zhewang.com
@@ -83914,6 +83976,7 @@ ios-pclog.i4.cn
 +.click.e.zoom.us
 +.click.em.blizzard.com
 +.click.email.bbc.com
++.click.email.lhh.com
 +.click.email.microsoftemail.com
 +.click.email.sonos.com
 +.click.email.strawberry.no
@@ -97843,6 +97906,7 @@ ios-pclog.i4.cn
 +.t.update.fbsbx.com
 +.t.vacations.disneydestinations.com
 +.t.visit.disneydestinations.com
++.t.x.co
 +.t.yesware.com
 +.t0p0ff3rs.com
 +.t157.com
@@ -101402,6 +101466,7 @@ ios-pclog.i4.cn
 +.xn--gov-x68dy61b.shop
 +.xn--io0a7i.com
 +.xn--oogle-wmc.com
++.xn--qrq171dxpq.com
 +.xni.ink
 +.xnrcnz.xyz
 +.xnyemao.com
