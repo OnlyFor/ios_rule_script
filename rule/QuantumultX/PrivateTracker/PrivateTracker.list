@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-27 02:11:56
-# HOST: 135
+# UPDATED: 2024-07-03 16:16:58
+# HOST: 139
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 266
+# TOTAL: 270
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
 HOST,aegir.sexy,PrivateTracker
@@ -16,6 +16,7 @@ HOST,bt.ktrackers.com,PrivateTracker
 HOST,bt.okmp3.ru,PrivateTracker
 HOST,bt1.archive.org,PrivateTracker
 HOST,bt2.archive.org,PrivateTracker
+HOST,btt.service.gongt.me,PrivateTracker
 HOST,bubu.mapfactor.com,PrivateTracker
 HOST,bvarf.tracker.sh,PrivateTracker
 HOST,canardscitrons.nohost.me,PrivateTracker
@@ -64,10 +65,13 @@ HOST,retracker01-msk-virt.corbina.net,PrivateTracker
 HOST,run.publictracker.xyz,PrivateTracker
 HOST,ryjer.com,PrivateTracker
 HOST,seedpeer.net,PrivateTracker
+HOST,t.overflow.biz,PrivateTracker
 HOST,t.peer-exchange.download,PrivateTracker
 HOST,t1.aag.moe,PrivateTracker
+HOST,t1.hloli.org,PrivateTracker
 HOST,tamas3.ynh.fr,PrivateTracker
 HOST,tk.greedland.net,PrivateTracker
+HOST,tk1.trackerservers.com,PrivateTracker
 HOST,tk2.trackerservers.com,PrivateTracker
 HOST,tk2v6.trackerservers.com,PrivateTracker
 HOST,torrents.artixlinux.org,PrivateTracker
@@ -93,7 +97,6 @@ HOST,tracker.draatman.uk,PrivateTracker
 HOST,tracker.dump.cl,PrivateTracker
 HOST,tracker.edkj.club,PrivateTracker
 HOST,tracker.electro-torrent.pl,PrivateTracker
-HOST,tracker.farted.net,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker
 HOST,tracker.files.fm,PrivateTracker
 HOST,tracker.fnix.net,PrivateTracker
@@ -102,12 +105,11 @@ HOST,tracker.gcrenwp.top,PrivateTracker
 HOST,tracker.gmi.gd,PrivateTracker
 HOST,tracker.ipfsscan.io,PrivateTracker
 HOST,tracker.ipv6tracker.org,PrivateTracker
-HOST,tracker.ipv6tracker.ru,PrivateTracker
 HOST,tracker.jamesthebard.net,PrivateTracker
-HOST,tracker.k.vu,PrivateTracker
 HOST,tracker.kuroy.me,PrivateTracker
 HOST,tracker.lilithraws.org,PrivateTracker
 HOST,tracker.loligirl.cn,PrivateTracker
+HOST,tracker.moeking.me,PrivateTracker
 HOST,tracker.mywaifu.best,PrivateTracker
 HOST,tracker.opentrackr.org,PrivateTracker
 HOST,tracker.openwebtorrent.com,PrivateTracker
@@ -115,10 +117,12 @@ HOST,tracker.pmman.tech,PrivateTracker
 HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
 HOST,tracker.silksa.co.za,PrivateTracker
+HOST,tracker.skynetcloud.site,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
 HOST,tracker.tamersunion.org,PrivateTracker
 HOST,tracker.theoks.net,PrivateTracker
+HOST,tracker.therarbg.com,PrivateTracker
 HOST,tracker.tiny-vps.com,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
 HOST,tracker.tryhackx.org,PrivateTracker
