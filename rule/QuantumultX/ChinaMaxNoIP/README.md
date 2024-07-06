@@ -15,17 +15,17 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2024-07-03 16:17:52
+最后更新时间：2024-07-06 02:12:48
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 448  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 82491  | 
+| HOST-SUFFIX | 82490  | 
 | HOST-WILDCARD | 1  | 
 | USER-AGENT | 65  | 
-| TOTAL | 83018  | 
+| TOTAL | 83017  | 
 
 
 ## QuantumultX 
@@ -421,12 +421,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
 - https://ruleset.isagood.day/alibaba.conf
-- https://ruleset.isagood.day/alibaba_domain.conf
-- https://ruleset.isagood.day/bilibili.conf
-- https://ruleset.isagood.day/icbc.conf
 - https://ruleset.isagood.day/sina.conf
-- https://ruleset.isagood.day/stream_cn.conf
-- https://ruleset.isagood.day/wechat.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
