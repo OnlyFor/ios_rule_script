@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-14 02:07:42
+# UPDATED: 2024-07-19 02:09:09
 # DOMAIN: 16329
 # DOMAIN-KEYWORD: 260
-# DOMAIN-SUFFIX: 134452
+# DOMAIN-SUFFIX: 134632
 # IP-CIDR: 445
 # IP-CIDR6: 1
-# TOTAL: 151487
+# TOTAL: 151667
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -16379,6 +16379,7 @@ play.kakao.com
 .02aa19117f396e9.com
 .02ce917efd.com
 .02ip.ru
+.03180d2d.live
 .0322cfmtl.cc
 .033.com
 .0342b40dd6.com
@@ -16607,6 +16608,7 @@ play.kakao.com
 .1085549509.rsc.cdn77.org
 .1089006802.rsc.cdn77.org
 .1090pjopm.de
+.1093958623.rsc.cdn77.org
 .10945-2.s.cdn15.com
 .10945-5.s.cdn15.com
 .1097834592.rsc.cdn77.org
@@ -16700,6 +16702,7 @@ play.kakao.com
 .1258999.com
 .1267a.xyz
 .126ccb.xyz
+.1273167513.rsc.cdn77.org
 .1278977604.rsc.cdn77.org
 .1287a.xyz
 .1288151678.rsc.cdn77.org
@@ -16795,6 +16798,7 @@ play.kakao.com
 .15tianqi.com
 .16-merchant-s.com
 .1630422306.rsc.cdn77.org
+.164de830.live
 .165tchuang.com
 .166460e61382a8ab15094a0fb111cc1b.com
 .166br.com
@@ -16894,6 +16898,7 @@ play.kakao.com
 .1c09d36b99.com
 .1c174d5fe7.com
 .1c447fc5b7.com
+.1c52e1e2.live
 .1c7cf19baa.com
 .1ca47a451d.com
 .1ca65f5f5b.com
@@ -17149,6 +17154,7 @@ play.kakao.com
 .24-7clinic.com
 .24-sportnews.com
 .24-visionaryenterprise.com
+.24052107.live
 .2408987111.com
 .240aca2365.com
 .2435march2024.com
@@ -17216,6 +17222,7 @@ play.kakao.com
 .250f851761.com
 .2529.com
 .254a.com
+.258104d2.live
 .258a912d15.com
 .259luxu.xyz
 .25haich4342.ru
@@ -17301,6 +17308,7 @@ play.kakao.com
 .2d32e2d54e.com
 .2d6g0ag5l.de
 .2d77c9dd09.com
+.2d8bc293.xyz
 .2da2.ru
 .2df0b2e308.com
 .2e4b7fc71a.com
@@ -17678,6 +17686,7 @@ play.kakao.com
 .3questionsgetthegirl.com
 .3r1kwxcd.top
 .3redlightfix.com
+.3ri.cc
 .3shangyou.com
 .3sjhdbjfsdf3.monster
 .3sk7d418al8u.com
@@ -17791,6 +17800,7 @@ play.kakao.com
 .4a136c118e.com
 .4a167ec12d.com
 .4a623a5a49.com
+.4a9517991d.com
 .4aae8f.site
 .4adtf.com
 .4affiliate.net
@@ -18910,6 +18920,7 @@ play.kakao.com
 .9cp.cn
 .9cp1.com
 .9cp2.com
+.9d2cca15e4.com
 .9d36cf3402.com
 .9d407e803d.com
 .9dccbda825.com
@@ -19016,6 +19027,7 @@ play.kakao.com
 .a.denik.cz
 .a.doganburda.com
 .a.dxzy163.com
+.a.fimoa.xyz
 .a.flux.jp
 .a.fobos.tv
 .a.guzhilin.com
@@ -19974,6 +19986,7 @@ play.kakao.com
 .ad-maven.com
 .ad-mediation.tuanguwen.com
 .ad-mix.de
+.ad-mixr.com
 .ad-move.jp
 .ad-ndtv.3s.com.vn
 .ad-optima.com
@@ -21015,6 +21028,7 @@ play.kakao.com
 .adm.shinobi.jp
 .adm668.com
 .adm789.com
+.adma.xsrv.jp
 .admachina.com
 .admagnet.net
 .admailtiser.com
@@ -21118,6 +21132,7 @@ play.kakao.com
 .admothreewallent.com
 .admoxi.com
 .admozartxml.com
+.admpire.com
 .adms.phunusuckhoe.vn
 .adms.physorg.com
 .admulti.com
@@ -24079,6 +24094,7 @@ play.kakao.com
 .alfatarget.ru
 .alfatraffic.com
 .alfelixstownrusis.info
+.alfionecasave.com
 .alfkiel.com
 .alflying.bi
 .alflying.bid
@@ -24507,6 +24523,7 @@ play.kakao.com
 .amazon.amazonptj.com
 .amazonbig.asia
 .amazonclix.com
+.amazones-tools.com
 .amazonl0.com
 .amazonl3.com
 .amazonlogistics.jp
@@ -25188,6 +25205,7 @@ play.kakao.com
 .aogk88.asia
 .aogkfujgtmfwp.xyz
 .aoihaizo.xyz
+.aoiqa.top
 .aojeet.icu
 .aojgggbwish.xyz
 .aojqjblt.xyz
@@ -25406,6 +25424,7 @@ play.kakao.com
 .app2.letmacworkfaster.site
 .app2.letslowbefast.life
 .app2.salesmanago.pl
+.app2up.info
 .app3.letitbefaster.website
 .app3.letmacwork.world
 .app4.letitbefaster.website
@@ -26017,6 +26036,7 @@ play.kakao.com
 .asdffe22.com
 .asdfg23.com
 .asdhit.com
+.asdji2.cn
 .asdpoi.com
 .asdqslnqmwwkc.com
 .asdqweq.com
@@ -26593,6 +26613,7 @@ play.kakao.com
 .audienzz.ch
 .audio-pa-service.de
 .audio.sex
+.audioad.zenomedia.com
 .audioadx.com
 .audioarctic.com
 .audiomob.com
@@ -26682,6 +26703,7 @@ play.kakao.com
 .aungoutsy.com
 .aungudie.com
 .aunsagoa.xyz
+.aunsaick.com
 .auntants.com
 .auntlyseniors.top
 .auobxpvjej.xyz
@@ -26697,6 +26719,7 @@ play.kakao.com
 .aupteens.com
 .auptefee.net
 .aurabom.ru
+.aurasport.net
 .aurdoagnoak.net
 .aurdosti.com
 .aureate.com
@@ -26718,6 +26741,7 @@ play.kakao.com
 .aussiemethod.com
 .austaihauna.com
 .austaits.xyz
+.austere-familiar.com
 .austeritylegitimate.com
 .austow.com
 .autchoog.net
@@ -27001,6 +27025,7 @@ play.kakao.com
 .awkljjaaweyzm.top
 .awkwardpurfles.com
 .awkwardsuperstition.com
+.awldcupu.com
 .awledconside.xyz
 .awlov.info
 .awltovhc.com
@@ -27272,6 +27297,7 @@ play.kakao.com
 .b36a26f3ab.com
 .b37r5.cyou
 .b397db8f50.com
+.b3b526dee6.com
 .b3kyo0de1fr0.com
 .b3mccglf4zqz.shop
 .b3ra6hmstrioek54er.com
@@ -27627,6 +27653,7 @@ play.kakao.com
 .banclip.com
 .bandageretaliateemail.com
 .bandborder.com
+.banddisordergraceless.com
 .bande2az.com
 .bandelcot.com
 .bandoraclink.com
@@ -27872,6 +27899,7 @@ play.kakao.com
 .banzaiadv.it
 .baohanhdienmayxanhvn.com
 .baohiemvietinbank.com
+.baohiemxahoi.vnagov.com
 .baosaoviet24h.net
 .baothanhnien.top
 .baotienphong.net
@@ -28055,6 +28083,7 @@ play.kakao.com
 .bavde1.icu
 .bavde3.icu
 .bavkvoks.xyz
+.bavotr.xyz
 .bavxuhaxtqi.com
 .bavxxf.xyz
 .baw5tracker.com
@@ -28297,6 +28326,7 @@ play.kakao.com
 .beachlinkz.com
 .beacon-api.aliyuncs.com
 .beacon-fullpage-predictor.goguardian.com
+.beacon-v2.helpscout.net
 .beacon.carfax.com
 .beacon.cdn.qq.com
 .beacon.digima.com
@@ -28549,6 +28579,7 @@ play.kakao.com
 .beknittykhana.life
 .belambre.fr
 .belamicash.com
+.belatedsafety.pro
 .belavoplay.com
 .belaya2shu1ba1.com
 .belazyelephant.com
@@ -28962,6 +28993,7 @@ play.kakao.com
 .bewarevampiresister.com
 .bewathis.com
 .bewdnkh.com
+.bewhigwithier.com
 .bewhoyouare.gq
 .bewilderedbattle.com
 .bewilderedblade.com
@@ -29582,6 +29614,7 @@ play.kakao.com
 .bkujacocdop.com
 .bkvps.com
 .bkvtrack.com
+.bkxpph.xyz
 .bkxuprh.cn
 .bkxwqhwcwnr.xyz
 .bkyqhavuracs.com
@@ -29719,6 +29752,7 @@ play.kakao.com
 .blkwrjerbklya.top
 .bllom.cloud
 .blmibao.com
+.blmwbzpma.com
 .blnojxqob.top
 .blntzf.xyz
 .bloatrome.com
@@ -30741,6 +30775,7 @@ play.kakao.com
 .brilliant-raise.pro
 .brilliantcollector.com
 .brimmallow.com
+.brimmedbryozoa.com
 .brinaltrak.com
 .bringclockwise.com
 .bringglacier.com
@@ -31031,6 +31066,7 @@ play.kakao.com
 .bubbly-condition.pro
 .bubblyzucchini.com
 .bubonicgraters.space
+.bubrintta.com
 .buccanslabby.top
 .buccingiddap.digital
 .buchumilit.website
@@ -31178,6 +31214,7 @@ play.kakao.com
 .bungalowsimply.com
 .bungarovet.com
 .bungeedubbah.com
+.bungingimpasto.com
 .bunintruder.com
 .bunnimide.com
 .bunny-net.com
@@ -31419,6 +31456,7 @@ play.kakao.com
 .bvrzwnq.xyz
 .bvtfutroyr.com
 .bvtvlp.xyz
+.bvubasnf.com
 .bvudraqxpl.com
 .bvvb9.com
 .bvxiht.xyz
@@ -31595,6 +31633,7 @@ play.kakao.com
 .c.br.msn.com
 .c.ca.msn.com
 .c.cl.msn.com
+.c.corporate-fundraising.co.uk
 .c.cpl2.ru
 .c.de.msn.com
 .c.dk.msn.com
@@ -32671,7 +32710,6 @@ play.kakao.com
 .cdn.manga9.co
 .cdn.mcnn.pl
 .cdn.mdigital.co.il
-.cdn.mediatradecraft.com
 .cdn.mixx-ad.net
 .cdn.movieads.ru
 .cdn.myadmessenger.com
@@ -33150,6 +33188,7 @@ play.kakao.com
 .champedhyps.com
 .championwin.ru
 .chamsockhachang.com
+.chamsockhachhang-uudai-the-truc-tuyen.online
 .chamsockhachhang-uudaithe-thang6.com
 .chamsockhachhang-uudaitructuyen.online
 .chamsockhachhangnanghanmuctindungmsb.com
@@ -33234,6 +33273,7 @@ play.kakao.com
 .chasmsnaa.com
 .chassescoothay.com
 .chassirsaud.com
+.chassnincom.com
 .chastehandkerchiefclassified.com
 .chatbox-static.botbanhang.vn
 .chatbox-tracking.botbanhang.vn
@@ -33492,6 +33532,7 @@ play.kakao.com
 .chinemcg.website
 .chinesean.com
 .chingovernment.com
+.chinhphu.cc
 .chinkerdough.com
 .chinoismoras.com
 .chinsedsauna.live
@@ -33927,6 +33968,7 @@ play.kakao.com
 .clamourcerillo.digital
 .clampalarmlightning.com
 .clangearnest.com
+.clankexpelledidentification.com
 .clanklastingfur.com
 .clapperfone.uno
 .claquefumeuse.com
@@ -34273,6 +34315,7 @@ play.kakao.com
 .clickthruhost.com
 .clickthruserver.com
 .clickthrutraffic.com
+.clicktimes.bid
 .clicktoclick.ru
 .clicktraceclick.com
 .clicktrack.onlineemailmarketing.com
@@ -34653,6 +34696,7 @@ play.kakao.com
 .cnt.ramlife.ru
 .cnt.spbland.ru
 .cnt.st
+.cnt.web-apps-prod.wo-cloud.com
 .cnt.xcounter.com
 .cnt1.net
 .cnt1.xhamster.com
@@ -35464,6 +35508,7 @@ play.kakao.com
 .consukultingeca.com
 .consultantpatientslaughter.com
 .consultantvariabilitybandage.com
+.consultation233.fun
 .consultingballetshortest.com
 .consulturias.com
 .consumable.com
@@ -37151,6 +37196,7 @@ play.kakao.com
 .cypressreel.com
 .cyprie.com
 .cyq3noz.icu
+.cyretuf.top
 .cyrigh.com
 .cyrxvpnu.com
 .cyseal.cyveillance.com
@@ -37267,6 +37313,7 @@ play.kakao.com
 .d15kuuu3jqrln7.cloudfront.net
 .d15mt77nzagpnx.cloudfront.net
 .d160mt023h8h3d.cloudfront.net
+.d162h6x3rxav67.cloudfront.net
 .d162nnmwf9bggr.cloudfront.net
 .d169bbxks24g2u.cloudfront.net
 .d16fk4ms6rqz1v.cloudfront.net
@@ -37763,6 +37810,7 @@ play.kakao.com
 .d2lxqodqbpy7c2.cloudfront.net
 .d2lxztepvo7ma1.cloudfront.net
 .d2lzu2a5ishr7o.cloudfront.net
+.d2m785nxw66jui.cloudfront.net
 .d2mic0r0bo3i6z.cloudfront.net
 .d2mqdhonc9glku.cloudfront.net
 .d2muzdhs7lpmo0.cloudfront.net
@@ -38034,6 +38082,7 @@ play.kakao.com
 .d3g4s1p0bmuj5f.cloudfront.net
 .d3g5ovfngjw9bw.cloudfront.net
 .d3gi6isrskhoq.cloudfront.net
+.d3hb14vkzrxvla.cloudfront.net
 .d3hdbjtb1686tn.cloudfront.net
 .d3hfiiy55cbi5t.cloudfront.net
 .d3hib26r77jdus.cloudfront.net
@@ -39583,6 +39632,7 @@ play.kakao.com
 .detectscoset.com
 .detectvid.com
 .detectys.digital
+.detentionquasipairs.com
 .detentsclonks.com
 .deteql.net
 .detergenthazardousgranddaughter.com
@@ -39594,6 +39644,7 @@ play.kakao.com
 .deterrentpainscodliver.com
 .detestgaspdowny.com
 .detinetcallant.com
+.detmir-stats.ru
 .detour.click
 .detox-kit.com
 .detox.shengen.ru
@@ -41789,6 +41840,7 @@ play.kakao.com
 .dump4barn.com
 .dumpaudible.com
 .dumpconfinementloaf.com
+.dumpilydieted.click
 .dumplingclubhousecompliments.com
 .dumplingdirewomen.com
 .dunceryquant.com
@@ -41867,9 +41919,11 @@ play.kakao.com
 .duwtkigcyxh.com
 .duwvinarma.com
 .duxesboddagh.com
+.duxlveokumpmd.com
 .duxqonqkcaum.com
 .duyendangaodaivietnam2021.weebly.com
 .duyetdonlazada.com
+.duyewnf.icu
 .duyvtanrheje.xyz
 .duz64ud8y8urc.cloudfront.net
 .duzbhonizsk.com
@@ -42520,6 +42574,7 @@ play.kakao.com
 .economicpizzas.com
 .economyhave.com
 .econrus.ru
+.econsistentlyplea.com
 .econth.com
 .econtinuedidg.com
 .ecookie.nl
@@ -43003,6 +43058,7 @@ play.kakao.com
 .eitish.com
 .eitka.com
 .eitney.com
+.eiuoom.xyz
 .eiwojaavyvc.com
 .eiyjkwmredryb.com
 .eiykwdhmnybu.com
@@ -43974,6 +44030,7 @@ play.kakao.com
 .ertgbme.com
 .erthmefeyauk.xyz
 .ertistsldahehu.com
+.ertlisw.top
 .ertopcu.com
 .erty0yx.com
 .ertya.com
@@ -44242,7 +44299,6 @@ play.kakao.com
 .eu.cf
 .eu.market-place.su
 .eu.spgo.io
-.eu2.contabostorage.com
 .euadsapi.manhuaren.com
 .euadw.com
 .euahvyde.xyz
@@ -45285,6 +45341,7 @@ play.kakao.com
 .fam-ad.com
 .fameailmentcircumstantial.com
 .familialsimulation.com
+.familiarpyromaniasloping.com
 .familiarrod.com
 .familyabroad.net
 .familyborn.com
@@ -45994,6 +46051,7 @@ play.kakao.com
 .fgisstdudch.com
 .fgjasshw.com
 .fgkoxeqjpal.com
+.fgkqaatlzhgn.com
 .fgmtv.org
 .fgnzdb.xyz
 .fgo22.info
@@ -46642,11 +46700,13 @@ play.kakao.com
 .flourishbriefing.com
 .flourishingcollaboration.com
 .flourishinghardwareinhibit.com
+.flourishinginnovation.com
 .flow8free.com
 .flower-ads.com
 .flower.bg
 .flowerasunder.com
 .flowerbooklet.com
+.flowerdicks.com
 .flowers.moex.com
 .flowersornament.com
 .flowerstreatment.com
@@ -47656,6 +47716,7 @@ play.kakao.com
 .frosmo.com
 .frost-electric-supply.com
 .frostplacard.com
+.frostscanty.com
 .frosty-cigarette.com
 .frosty-criticism.pro
 .frostyonce.com
@@ -47781,6 +47842,7 @@ play.kakao.com
 .ftslrfl.com
 .ftte.fun
 .ftte.xyz
+.fttervlvoj.com
 .fttjyji.com
 .ftuaxqokbxow.com
 .ftv-publicite.fr
@@ -48144,6 +48206,7 @@ play.kakao.com
 .g91games.com
 .ga-ads.com
 .ga-bq-py-1.appspot.com
+.ga-tracker-dot-detmir-bonus.appspot.com
 .ga.5.p2l.info
 .ga1.3dmgame.com
 .gabblecongestionhelpful.com
@@ -49161,6 +49224,7 @@ play.kakao.com
 .gianwho.com
 .giaodich-quetthetindung.com
 .giaodich-quetthetindungvn.com
+.giaodichdaquocgia.us
 .giaodichphieurutienmposvn.com
 .giaodichpostructuyenvn.com
 .giaodichquettindungpos247-online.com
@@ -49228,6 +49292,7 @@ play.kakao.com
 .gigmantomjohn.guru
 .gigsmanhowls.top
 .gihehazfdm.com
+.giiao.hangtietkiem.com
 .gijxsthpuqdwcn.com
 .gikefa.uno
 .gilarditus.com
@@ -49393,6 +49458,7 @@ play.kakao.com
 .gkswas.xyz
 .gkutca.xyz
 .gkwrae.xyz
+.gkypgw.xyz
 .gkzba.com
 .gl-cash.com
 .gl.ink
@@ -49456,6 +49522,7 @@ play.kakao.com
 .glbtrk.com
 .glczys.xyz
 .gldlwt.com
+.gldrdr.com
 .gldsta-02-or.com
 .gleagainedam.info
 .gleamcalumnygeneralize.com
@@ -50260,6 +50327,7 @@ play.kakao.com
 .gqdvbkmnkox.com
 .gqedxf.com
 .gqer.ru
+.gqfuf.com
 .gqgfrgx.cn
 .gqhrflhprg.com
 .gqilaywrqy.com
@@ -50591,6 +50659,7 @@ play.kakao.com
 .groapeeque.com
 .grobido.info
 .grocerycookerycontract.com
+.groceryshootworld.com
 .grocerysurveyingentrails.com
 .grocmaish.com
 .groglezapto.pro
@@ -51122,6 +51191,7 @@ play.kakao.com
 .gzcxtuxgqjrhz.com
 .gzdpae.cyou
 .gzexsc.top
+.gzglmoczfzf.com
 .gzhying1.cn
 .gzifhovadhf.com
 .gzigudxidz.com
@@ -51851,6 +51921,7 @@ play.kakao.com
 .headirtlseivi.org
 .headlightgranulatedflee.com
 .headlightinfinitelyhusband.com
+.headline205.fun
 .headphonedecomposeexcess.com
 .headphoneveryoverdose.com
 .headquarterinsufficientmaniac.com
@@ -52374,6 +52445,7 @@ play.kakao.com
 .hideousactivelyparked.com
 .hidingenious.com
 .hidist.com
+.hie.li
 .hiedflashed.com
 .hiedgored.top
 .hiemalsalpids.com
@@ -52697,6 +52769,7 @@ play.kakao.com
 .hkowhqtenjfud.com
 .hkoxlirf.com
 .hkpeghqu.icu
+.hkqtjqbfb.com
 .hkrpg-log-upload-os.hoyoverse.com
 .hkrpg-log-upload.mihoyo.com
 .hkrytf.xyz
@@ -52757,6 +52830,7 @@ play.kakao.com
 .hmutggsidcnhj.com
 .hmw42.host-my-website.com
 .hmwebs.top
+.hmxg5mhyx.com
 .hmyuokltxplqwfa.com
 .hn1l.online
 .hn1l.site
@@ -53704,6 +53778,7 @@ play.kakao.com
 .hvd1t.com
 .hvdath.xyz
 .hvdmwhnawvhbejv.com
+.hvdt8.chimeratool.com
 .hvegent.cn
 .hvfubp.xyz
 .hvgcfx1.com
@@ -53865,6 +53940,7 @@ play.kakao.com
 .hypwbv.xyz
 .hyrcanquittor.com
 .hyrcycmtckbcpyf.xyz
+.hyretuu.top
 .hyrewusha.pro
 .hyros.com
 .hysdknb.com
@@ -54258,6 +54334,7 @@ play.kakao.com
 .ieuhd.com
 .ieurop.net
 .ieurope1.fr
+.ievjrgjid.com
 .ievjylvqfjry.com
 .ievvo.xyz
 .iewhonhdvryu.com
@@ -54310,6 +54387,7 @@ play.kakao.com
 .ifsmatbeg.site
 .ifsnickshriek.click
 .ifsnickshriek.com
+.ifulasaweatherc.info
 .ifvox.com
 .ifvxoluyhof.com
 .ifyso.icu
@@ -54672,6 +54750,7 @@ play.kakao.com
 .imetrix.it
 .imevzbn.cn
 .img-a2.ak.imagevz.net
+.img-load.com
 .img-perli.com
 .img.0279.net
 .img.ascontentcloud.com
@@ -55741,6 +55820,7 @@ play.kakao.com
 .interstitial-07.com
 .interstitial-08.com
 .intertech.co.jp
+.intervention304.fun
 .interviewabonnement.com
 .interviewdegenerateperspective.com
 .interviewearnestlyseized.com
@@ -56312,6 +56392,7 @@ play.kakao.com
 .iteneanrhina.com
 .itenvalve.uno
 .itespurrom.com
+.iteyi.xyz
 .itgear.jp
 .itgiblean.com
 .itguvmlnyhfa.com
@@ -56741,6 +56822,7 @@ play.kakao.com
 .jarvispopsu.com
 .jasaiklan.com
 .jasd.php
+.jasdz1.cn
 .jaseysbionomy.com
 .jashautchord.com
 .jasheest.xyz
@@ -57461,6 +57543,7 @@ play.kakao.com
 .joetec.net
 .jofbu.com
 .jofknbpe.xyz
+.jogcu.com
 .jogdied.com
 .joggingavenge.com
 .jogytuuey.com
@@ -58123,6 +58206,7 @@ play.kakao.com
 .jybaekajjmrqw.top
 .jydydmctzxcea.com
 .jyewkb.icu
+.jyfdbj.xyz
 .jyfght.cn
 .jyfirjqojg.xyz
 .jygcv.sbs
@@ -58140,6 +58224,7 @@ play.kakao.com
 .jynthelon.com
 .jyozavoyyyjbj.top
 .jyozavoyyykby.top
+.jyozavoyyyqll.top
 .jypugepha.pro
 .jypvzd.xyz
 .jyqekzewvyojy.top
@@ -58223,6 +58308,7 @@ play.kakao.com
 .k8ik878i.top
 .k8trangphim.com
 .k99.cc
+.k9gj.site
 .kaan.kakao.com
 .kaaqgf.icu
 .kaartenhuis.nl.site-id.nl
@@ -58512,6 +58598,7 @@ play.kakao.com
 .keepass.com
 .keepass.fr
 .keepingconcerned.com
+.keepsagri.net
 .keepsosto.com
 .keepsouh.com
 .keeptaza.com
@@ -59501,6 +59588,7 @@ play.kakao.com
 .krjxhvyyzp.com
 .krjzxie.cn
 .krkmkvxneig.com
+.krkstrk.com
 .krkursist.com
 .krnmayzjvzqve.top
 .krolikplatit.ru
@@ -59701,6 +59789,7 @@ play.kakao.com
 .kvidcq.com
 .kvision.tv
 .kvjjhwkqhehkv.com
+.kvjkkwyomjrx.com
 .kvkfxrrdjgq.xyz
 .kvmaa.com
 .kvovs.xyz
@@ -59725,6 +59814,7 @@ play.kakao.com
 .kweriod.top
 .kwgefe.com
 .kwhenspokento.info
+.kwiqcoh.icu
 .kwivb.cn
 .kwiydaw.com
 .kwjjpphbsuuoe.com
@@ -59859,6 +59949,7 @@ play.kakao.com
 .l.tenkomori.tv
 .l.ti-da.net
 .l.traxmag.com
+.l.wl.co
 .l.www.naver.com
 .l0b.ru
 .l0ix1.site
@@ -60011,6 +60102,7 @@ play.kakao.com
 .laiwhost.net
 .laizuwhy.com
 .lajeshuru.pro
+.lajevt.xyz
 .lajjuqamcwax.com
 .lajna.fr
 .lajouly.com
@@ -60031,7 +60123,6 @@ play.kakao.com
 .laluvygy.com
 .lama-ole-nydahl.fr
 .lambangcap3giare.net
-.lambda-url.us-east-1.on.aws
 .lambdafoobar.de
 .lambedbarbal.website
 .lamberslucina.website
@@ -60124,6 +60215,7 @@ play.kakao.com
 .lapatiya.info
 .lapblra5do4j7rfit7e.com
 .lapbscpgazh.com
+.lapdatinternet.net
 .lapeduzis.org
 .laphoceen.fr
 .lapowed.com
@@ -60473,6 +60565,7 @@ play.kakao.com
 .ldimage02.adtech.fr
 .ldimage02.adtech.us
 .ldimnveryldgitwe.xyz
+.ldipsuml.top
 .ldisgmftfxanwb.com
 .lditsdebriisar.cfd
 .ldjhlqr.cn
@@ -60788,6 +60881,7 @@ play.kakao.com
 .leonardoadv.it
 .leonbetvouum.com
 .leonidwolvers.com
+.leonistenstyle.com
 .leonodikeu9sj10.com
 .leoojlxbcvnmpbe.com
 .leoparddisappearcrumble.com
@@ -62929,6 +63023,7 @@ play.kakao.com
 .lwmzoaf.cn
 .lwojitro.top
 .lwonclbench.com
+.lwprdv.xyz
 .lwpxhr.xyz
 .lwrohd.xyz
 .lwtqqq.com
@@ -62980,6 +63075,7 @@ play.kakao.com
 .lydiz.com
 .lydownload.net
 .lydrnj.xyz
+.lyearsfoundhertob.com
 .lyemiatteffulrf.xyz
 .lyemmayrabawe.top
 .lyemmayrabzew.top
@@ -62991,6 +63087,7 @@ play.kakao.com
 .lygvtmeaekuv.com
 .lyingdownt.xyz
 .lyingshayride.com
+.lyislol.top
 .lyjcwiwzkq.com
 .lyjegushe.pro
 .lyjznnanareay.top
@@ -64388,6 +64485,7 @@ play.kakao.com
 .mediatoday.ru
 .mediator.imgsmail.ru
 .mediatrack.revenue.net
+.mediatradecraft.com
 .mediatraffic.com.ua
 .mediatraks.com
 .mediavadasz.info
@@ -64422,6 +64520,7 @@ play.kakao.com
 .mediego.com
 .medigaly.com
 .medimnbream.top
+.medinewaps.com
 .mediocrecount.com
 .medipartner.jp
 .meditateenhancements.com
@@ -65109,6 +65208,7 @@ play.kakao.com
 .mikeylaude.com
 .mikhainpretts.xyz
 .mikhrmpwbtrip.com
+.mikka.app
 .mikop.xyz
 .milasktic.com
 .mildarmorynodding.com
@@ -65472,6 +65572,7 @@ play.kakao.com
 .mklllwakbplp.com
 .mklrty.info
 .mkopli-1.live
+.mkscy6.cn
 .mkshopmobi.xyz
 .mkt.hoanghamobile.com
 .mkt3261.com
@@ -65855,6 +65956,7 @@ play.kakao.com
 .moistcargo.com
 .moistenmanoc.com
 .moistentrailed.top
+.mojgov.weebly.com
 .mojn.com
 .mojoaffiliates.com
 .mojogike.net
@@ -67436,6 +67538,7 @@ play.kakao.com
 .namesexual.com
 .nametraff.com
 .namibyyy.com
+.namjzoa.xyz
 .namogemi.ru
 .namol.xyz
 .namystal.com
@@ -67464,6 +67567,7 @@ play.kakao.com
 .nang-han-muc-vcs1-khcn-vib.com
 .nang-han-muc-vip-vpbank.com
 .nang-hang-ca-nhan-vib-mrk1.com
+.nang-hang-the-vip2-vib.com
 .nang-hang-tin-dung-ca-nhan.com
 .nangalupeose.com
 .nangelsaidthe.info
@@ -68064,6 +68168,7 @@ play.kakao.com
 .nehree.com
 .nehuha.ru
 .neigh11.xyz
+.neighborhood268.fun
 .neighborlywatch.com
 .neigna.com
 .neilbl.com
@@ -68102,6 +68207,7 @@ play.kakao.com
 .neopowerlab.com
 .neopush.io
 .neosap.ru
+.neousaunce.com
 .neowordprss.fr
 .nepalon.com
 .nepinplainsight.com
@@ -68322,6 +68428,7 @@ play.kakao.com
 .newnns.com
 .newnudecash.com
 .newoctads.com
+.newormedia.com
 .newouest.fr
 .newpgqnfapkamg.xyz
 .newprofitcontrol.com
@@ -70285,6 +70392,7 @@ play.kakao.com
 .odegumsane.com
 .odinkod.ru
 .odipjwipwwyus.xyz
+.odipsumk.top
 .odjweddfuh.com
 .odkfzmwfkjgzag.com
 .odlyccugg.com
@@ -70513,6 +70621,7 @@ play.kakao.com
 .ogury.com
 .ogury.io
 .ogvkyxx.com
+.ogwkwcgmnarq.com
 .ogwmubfnjbzyo.com
 .ogwnjcumfbgm.com
 .ogwqkgtboxol.com
@@ -70534,6 +70643,7 @@ play.kakao.com
 .ohgskf.com
 .ohhotnmcibij.com
 .ohibal.com
+.ohimunpracticalw.info
 .ohjhsopp.com
 .ohkahfwumd.com
 .ohkdsplu.com
@@ -70817,6 +70927,7 @@ play.kakao.com
 .omiki.com
 .ominateamt.com
 .omine.org
+.omission119.fun
 .omissionmexicanengineering.com
 .omitbailey.com
 .omitcalculategalactic.com
@@ -71536,6 +71647,7 @@ play.kakao.com
 .orgagetnization.org
 .organexpectationsmaintain.com
 .organic-harmony.com
+.organiccopiedtranquilizer.com
 .organikusok.blogspot.hu
 .organizationdogs.com
 .organizecoldness.com
@@ -72559,6 +72671,7 @@ play.kakao.com
 .palsybrush.com
 .palsyowe.com
 .paltryheadline.com
+.paluinho.cloud
 .palvanquish.com
 .palyazatfigyelo.info
 .palycaid.life
@@ -72763,6 +72876,7 @@ play.kakao.com
 .parsecrosed.com
 .parsedgirnie.com
 .parserskiotomy.com
+.parsiheep.net
 .parsimoniousinvincible.net
 .parsimoniouspolice.com
 .parskabab.com
@@ -73836,6 +73950,7 @@ play.kakao.com
 .pheselta.net
 .phesheet.net
 .phethikapso.pro
+.phetsaikrugi.com
 .phewhouhopse.com
 .phftcml.com
 .phglobk.com
@@ -73936,6 +74051,7 @@ play.kakao.com
 .phosphatepossible.com
 .photo-ads.zaloapp.com
 .photo-cam.com
+.photo07.xyz
 .photofuturecrappy.com
 .photographcrushingsouvenirs.com
 .photographediblefiend.com
@@ -74125,6 +74241,7 @@ play.kakao.com
 .pigletsmunsee.top
 .piglikecold.uno
 .pigment-adv.co.il
+.pigmewpiete.com
 .pigmydocent.com
 .pignuwoa.com
 .pigredoben12.sytes.net
@@ -74351,6 +74468,7 @@ play.kakao.com
 .pixel.ipinfo.io
 .pixel.klout.com
 .pixel.kodixauto.ru
+.pixel.nudgify.com
 .pixel.nur.kz
 .pixel.playbuzz.com
 .pixel.redditmedia.com
@@ -74656,6 +74774,7 @@ play.kakao.com
 .pleastevallege.xyz
 .pleasureflatteringmoonlight.com
 .plecki.com
+.plecnyz.icu
 .pledgeexceptionalinsure.com
 .pledgeincludingsteer.com
 .pledgetolerate.com
@@ -74715,6 +74834,7 @@ play.kakao.com
 .ploy.batmobi.net
 .ployeesihighlyr.xyz
 .ploygunline.com
+.ployingcurship.com
 .plpuybpodusgb.xyz
 .plqbxvnjxq92.com
 .plrjs.org
@@ -75728,6 +75848,7 @@ play.kakao.com
 .premonitioneuropeanstems.com
 .premonitioninventdisagree.com
 .premovenonda.com
+.preoccupation3x.fun
 .preoccupationjames.com
 .preoccupycommittee.com
 .preoccupycorrecttalented.com
@@ -75825,6 +75946,7 @@ play.kakao.com
 .prevuesthurl.com
 .prexyone.appspot.com
 .preyersbowe.top
+.prezna.com
 .prf.hn
 .prfctlivs.click
 .prfctmney.com
@@ -76003,6 +76125,7 @@ play.kakao.com
 .probersnobles.com
 .probessanggau.com
 .probestrike.com
+.probid.ai
 .probikesshop.fr
 .probitystuck.com
 .probtn.com
@@ -76545,6 +76668,7 @@ play.kakao.com
 .pseidpmubwu.com
 .psemotion.top
 .psensuds.net
+.psergete.com
 .psestwotothr.cfd
 .pseudonym.cn
 .psfdi.com
@@ -76973,6 +77097,7 @@ play.kakao.com
 .puncol.com
 .punctualflopsubquery.com
 .punctuationceiling.com
+.pungar85.shop
 .pungentsmartlyhoarse.com
 .punishgrantedvirus.com
 .punishrwy.space
@@ -77423,6 +77548,7 @@ play.kakao.com
 .q.broes.xyz
 .q.ikre.xyz
 .q.leru.xyz
+.q.tubetruck.com
 .q02orc.cn
 .q0mn5t187u.ru
 .q0yxfvuo32.ru
@@ -77659,6 +77785,7 @@ play.kakao.com
 .qhnwj.com
 .qhocciks.com
 .qhodog.xyz
+.qhscsu.xyz
 .qhskskb.com
 .qhsqrtva.com
 .qhssjyb.xyz
@@ -78052,6 +78179,7 @@ play.kakao.com
 .quanbailing.com
 .quancee.top
 .quancuncq.xyz
+.quandoi-viettel.com
 .quangcao.24h.com.vn
 .quangcao.baovannghe.com.vn
 .quangcao.fff.com.vn
@@ -78720,6 +78848,7 @@ play.kakao.com
 .rankingscout.com
 .rankinteractive.com
 .rankirani.ir
+.ranklet.come.cc
 .ranklink.de
 .rankonefoldonefold.com
 .rankpeers.com
@@ -78978,6 +79107,7 @@ play.kakao.com
 .rdrsec.com
 .rdrtrk.com
 .rdsa2012.com
+.rdsgick.icu
 .rdsncyndhj.com
 .rdtjkwy.cn
 .rdtk.io
@@ -79822,6 +79952,7 @@ play.kakao.com
 .renewedinexorablepermit.com
 .renewmodificationflashing.com
 .renewnewss.net
+.renewpacificdistrict.com
 .renhertfo.com
 .reninet.com
 .renminbao.com
@@ -80357,6 +80488,7 @@ play.kakao.com
 .rfeablduda.com
 .rferl.c.goolara.net
 .rfhddwa.com
+.rficarolnak.com
 .rfihub.com
 .rfihub.net
 .rfimzurarqk.com
@@ -80775,6 +80907,7 @@ play.kakao.com
 .rmp.rakuten.com
 .rmraos.com
 .rmrtgsheui.com
+.rmshqa.com
 .rmtag.com
 .rmtckjzct.com
 .rmuuspy.com
@@ -81648,6 +81781,7 @@ play.kakao.com
 .ruzxzebrupa.com
 .rvbiocn.cn
 .rvddfchkj.xyz
+.rvetreyu.net
 .rvibgboy.com
 .rvioyjme.com
 .rvlgrb.xyz
@@ -82562,6 +82696,7 @@ play.kakao.com
 .sckxppzdm.com
 .scl6gc5l.site
 .sclerasliflod.top
+.sclimbwidower.top
 .sclk.org
 .sclrnnp.com
 .scnd-tr.com
@@ -83960,6 +84095,7 @@ play.kakao.com
 .shockedfoxed.top
 .shockgore.com
 .shocking-design.pro
+.shocking-profile.pro
 .shockinggrass.com
 .shockingrobes.com
 .shockingship.com
@@ -84190,6 +84326,7 @@ play.kakao.com
 .shopeeshoppimg.com
 .shopeesmarket.com
 .shopeeson.com
+.shopeesop.com
 .shopeesukien.com
 .shopeetiki.com
 .shopeetro.club
@@ -84539,6 +84676,7 @@ play.kakao.com
 .shrillwife.pro
 .shrillyfinland.com
 .shrimpexclusive.com
+.shrimpgenerator.com
 .shrimpskins.org
 .shrimpsqueezed.com
 .shrinebroom.com
@@ -84886,6 +85024,7 @@ play.kakao.com
 .sirdata.eu
 .sirdata.io
 .sirdushi.xyz
+.sirec.in
 .siredgynics.com
 .siredonlacs.com
 .sirepisode.com
@@ -85464,6 +85603,7 @@ play.kakao.com
 .smathe.com
 .smatr.icu
 .smatr.net
+.smawwgsdayrgijp.com
 .smazaz.icu
 .smbx8.net
 .smct.co
@@ -87225,6 +87365,7 @@ play.kakao.com
 .stats.globesports.com
 .stats.grafana.org
 .stats.groupninetyfour.com
+.stats.habr.com
 .stats.hara.vn
 .stats.hc.score.dmp.zalo.me
 .stats.helsingborg.se
@@ -87622,6 +87763,7 @@ play.kakao.com
 .stonkstime.com
 .stoobsugree.net
 .stoobsut.com
+.stoogouy.net
 .stookoth.com
 .stooliroori.com
 .stoolree.com
@@ -88044,6 +88186,7 @@ play.kakao.com
 .succeedprosperity.com
 .succeedscene.com
 .success-news.net
+.successcuff.com
 .successfulpatience.com
 .successfulscent.com
 .successfultogether.co.uk
@@ -88684,6 +88827,7 @@ play.kakao.com
 .swiftype.fr
 .swigdomable.com
 .swigethinyl.top
+.swiggermahwa.com
 .swiggrazer.life
 .swimmerallege.com
 .swimmerperfectly.com
@@ -88737,6 +88881,7 @@ play.kakao.com
 .swungencetacea.website
 .swuretecali.com
 .swvhwyaavewko.com
+.swwdke.xyz
 .swwpush.com
 .swzgvmlvt.com
 .swzydgm.com
@@ -88834,6 +88979,7 @@ play.kakao.com
 .syndapop.com
 .syndicate.payloadz.com
 .syndicated.mondominishows.com
+.syndicatedsearch.goog
 .syndication.adlinknetwork.vn
 .syndication.trafficreps.com
 .syndiesserged.xyz
@@ -89014,6 +89160,7 @@ play.kakao.com
 .t.lidyana.com
 .t.mdn2015x3.com
 .t.melhorplano.net
+.t.mm-uxrv.com
 .t.mmtrkr.com
 .t.my.jobs
 .t.n.mcdonalds.de
@@ -89654,6 +89801,7 @@ play.kakao.com
 .tctm.co
 .tcuqqhj.icu
 .tcvmtp.xyz
+.tcvnhomefic.com
 .tcwcs.com
 .tcwhycdinjtgar.xyz
 .tcx-beacon.docs.aws.dev
@@ -89694,6 +89842,7 @@ play.kakao.com
 .tdkt00.com
 .tdkt01.com
 .tdkt06.com
+.tdkt07.com
 .tdljuuw.xyz
 .tdlyfz.xyz
 .tdmd.us
@@ -89818,6 +89967,7 @@ play.kakao.com
 .tebrand.asia
 .tebrand.vn
 .tecaavdsy.com
+.tecaitouque.net
 .tech.zapps.me
 .techahv.com
 .techbeat.com
@@ -89918,7 +90068,6 @@ play.kakao.com
 .teledai.com
 .telefoniabologna.it
 .telegmcn.org
-.telegraf.detmir-stats.ru
 .telegram-china.org
 .telegram-cn.org
 .telegram-vip.com
@@ -89986,6 +90135,7 @@ play.kakao.com
 .telusplanet.net
 .telvanil.ru
 .telwrite.com
+.temachaumble.top
 .tembetachasmic.guru
 .tembetanymil.com
 .temelio.com
@@ -90260,6 +90410,7 @@ play.kakao.com
 .tgpcounter.freethumbnailgalleries.com
 .tgpmanager.com
 .tgpsew.com
+.tgrpzl.xyz
 .tgryfh.xyz
 .tgsscmaxfi.com
 .tgtag.io
@@ -91058,6 +91209,7 @@ play.kakao.com
 .tikictv9.com
 .tikihk.com
 .tikiiii.com
+.tikijaj2.com
 .tikimall.org
 .tikimall.top
 .tikimast.com
@@ -91097,6 +91249,7 @@ play.kakao.com
 .tikrailrou.com
 .tiksgayowqln.com
 .tikstok.fun
+.tikt88.com
 .tiktakz.xyz
 .tiktok-ads.hara.vn
 .tiktokcy1.com
@@ -91134,6 +91287,7 @@ play.kakao.com
 .timidtraumaticterminate.com
 .timingbitternessgreasy.com
 .timivay.com
+.timmerintice.com
 .timoggownduj.com
 .timot-cvk.info
 .timpanosheng.com
@@ -92127,6 +92281,7 @@ play.kakao.com
 .tqrjlqt.com
 .tqrznqs.cn
 .tqsrtyqpoeyp.com
+.tqtqvb.xyz
 .tquspo.com
 .tquvbfl.com
 .tqvnzj.xyz
@@ -94259,6 +94414,7 @@ play.kakao.com
 .uahozcfq.xyz
 .uahpycewbx.com
 .uaiosio.top
+.uaiqp.top
 .uakxkb.icu
 .uamobile.net
 .uamoctchgmkya.com
@@ -94360,6 +94516,7 @@ play.kakao.com
 .udheansv.com
 .udiab1.jianshu.com
 .udinugoo.com
+.udipsumt.top
 .udjdpyrt.xyz
 .udkcrj.com
 .udkpcc.xyz
@@ -95221,6 +95378,7 @@ play.kakao.com
 .uoktyggqexq.com
 .uole.ad.uol.com.br
 .uommwhqyefutlp.com
+.uomsogicgi.com
 .uoosqk.xyz
 .uoqsxdpx.xyz
 .uorhlwm.com
@@ -95787,6 +95945,7 @@ play.kakao.com
 .uucfeebvz.com
 .uucm.cn
 .uudai-tructuyen-chamsockhachhang-the.com.vn
+.uudaikhachhang-tructuyen.com.vn
 .uudailienquan.com
 .uudainapthe.vn
 .uudainganhang.com
@@ -95875,7 +96034,9 @@ play.kakao.com
 .uxwnqppdma.com
 .uxxsiyokw.com
 .uxzvjoj.cn
+.uyaeco.xyz
 .uyban.club
+.uyceypgygwywfp.com
 .uycxhgrp.xyz
 .uydzfldt.xyz
 .uyeaoofppwrhz.com
@@ -96240,6 +96401,7 @@ play.kakao.com
 .vavhhpkmfc.com
 .vavietcombank.cc
 .vavilisys.com
+.vavuwetus.com
 .vawauoggraokog.com
 .vawsmoocah.com
 .vax-boost.com
@@ -96791,6 +96953,7 @@ play.kakao.com
 .vghd.com
 .vghkncbu.xyz
 .vghnnh.xyz
+.vgiao.hangtietkiem.com
 .vgjaxnuw.xyz
 .vgmnpjnrpj.com
 .vgs-collect-keeper.apps.verygood.systems
@@ -96857,6 +97020,7 @@ play.kakao.com
 .viaxmr.com
 .vib-bank.com
 .vib-cardnew.shop
+.vib-gold-card.shop
 .vib-mydiamon-khcn-uutien-vnc1.com
 .vib-nang-the.com
 .vib-nangcap.com
@@ -97184,6 +97348,7 @@ play.kakao.com
 .vietnamairliness.com
 .vietnamairslines.com
 .vietnamairslines.vn
+.vietnamdaily-log.trithuccuocsong.vn
 .vietnamdebd.com
 .vietnamdiscovery.fr
 .vietnamdsa.site
@@ -97880,6 +98045,8 @@ play.kakao.com
 .vnbitcoin.cc
 .vnbyclsboyoya.com
 .vnc63661s.com
+.vnc69977s.com
+.vnc75635s.com
 .vndcrknbh.xyz
 .vnduthianhgroup.com
 .vnebank.xyz
@@ -97966,6 +98133,7 @@ play.kakao.com
 .vocationalenquired.com
 .vod-cash.com
 .vodafone-direkt.de
+.voderbhungi.com
 .vodjnqarncm.com
 .vodkaquang.com
 .vodlpsf.com
@@ -98519,6 +98687,7 @@ play.kakao.com
 .vwyycnq.cn
 .vx4n.icu
 .vxdpmxw.xyz
+.vxdrfr.xyz
 .vxelkrhl.info
 .vxeynuboasnc.com
 .vxfdepn.cn
@@ -98834,6 +99003,7 @@ play.kakao.com
 .washinexhaustible.com
 .washingbustlewhack.com
 .washingoccasionally.com
+.washokanap.com
 .washpottelly.website
 .wasm.stream
 .wasm24.ru
@@ -98982,6 +99152,7 @@ play.kakao.com
 .wbidr.com
 .wbilvnmool.com
 .wbjjkdofo.xyz
+.wbk9sohp.jdpz.link
 .wbkaqly.cn
 .wbn.su
 .wbnbocz.xyz
@@ -99873,6 +100044,7 @@ play.kakao.com
 .whootascots.com
 .whootkhankah.com
 .whoppercreaky.com
+.whopping-sea.com
 .whopstriglot.com
 .whoptoorsaub.com
 .whorlysenior.top
@@ -100258,6 +100430,7 @@ play.kakao.com
 .wizard-teasers.com
 .wizard-traffic.com
 .wizardmarndl.com
+.wizardscharityvisa.com
 .wizardunstablecommissioner.com
 .wizkrdxivl.com
 .wizliebeg.com
@@ -100413,6 +100586,7 @@ play.kakao.com
 .wnmaoc.xyz
 .wnmyerzbjhu.ru
 .wnnbvnj.cn
+.wnootzc.icu
 .wnp.com
 .wnpbdan.bid
 .wnrrhcyok.xyz
@@ -102260,6 +102434,7 @@ play.kakao.com
 .xmg.cool
 .xmglass.cn
 .xmhgwmdjhul.com
+.xmhszb.xyz
 .xmi1.top
 .xmjajv.xyz
 .xmjnohwneqe.com
@@ -102698,6 +102873,7 @@ play.kakao.com
 .xxxrevpushclcdu.com
 .xxxuhx.xyz
 .xxxviijmp.com
+.xxxvijmp.com
 .xxxvipporno.com
 .xxxvjmp.com
 .xxxwebtraffic.com
@@ -102795,6 +102971,7 @@ play.kakao.com
 .yaefddu.com
 .yaeigtmhvsibf.com
 .yafabu.uno
+.yaffedtwindle.com
 .yafmqibivbuu.com
 .yaggergiher.top
 .yahugg.com
@@ -104113,6 +104290,7 @@ play.kakao.com
 .zendictees.fr
 .zendonetwise.com
 .zendplace.pro
+.zengoongoanu.com
 .zenigameblinger.org
 .zenkreka.com
 .zenoviaexchange.com
@@ -104311,6 +104489,7 @@ play.kakao.com
 .zi8ivy4b0c7l.com
 .ziaratjs.tech
 .zibaweva.com
+.ziblo.cloud
 .zichenit.com
 .zidgrrfgb.com
 .zidoudsa.net
@@ -104530,6 +104709,7 @@ play.kakao.com
 .zoloft.1.p2l.info
 .zoloft.3.p2l.info
 .zoloft.4.p2l.info
+.zoltrl.xyz
 .zombiharshen.top
 .zombisarake.top
 .zomcz.cyou
